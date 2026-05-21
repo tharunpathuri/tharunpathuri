@@ -24,7 +24,8 @@ Focus on improving:
 * Test Frameworks: TestNG, Cucumber
 * Languages: Java, TypeScript
 * CI/CD: Jenkins
-* Containerization: Docker
+* Build Management: Maven
+* Containerization: Selenium Grid with Docker
 * Version Control: Git
 * Defect Tracking: JIRA
 * Documentation & Collaboration: Confluence, MS Office
@@ -34,7 +35,7 @@ Focus on improving:
 
 * End-to-End Test Automation
 * API Testing & Validation
-* Framework Design (Hybrid, POM, BDD)
+* Framework Design (Hybrid, POM, BDD, Data Driven)
 * CI/CD Integration
 * Containerized Test Execution
 * Agile & Scrum Practices
